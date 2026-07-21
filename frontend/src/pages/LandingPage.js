@@ -8,7 +8,7 @@ const LandingPage = () => {
       {/* Header/Navbar */}
       <nav className="navbar">
         <div className="container">
-          <h1 className="logo">Atlasia Logistics</h1>
+          <h1 className="logo">Atlasia Group Ltd</h1>
           <div className="nav-links">
             <a href="#features">Features</a>
             <a href="#about">About</a>
